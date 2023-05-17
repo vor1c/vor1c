@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **voricyt@gmail.com**
 
-- ⚡ Fun fact **I think i can code good :skull:**
+- ⚡ Fun fact **My Life :skull:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
