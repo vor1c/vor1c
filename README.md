@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealvoric" alt="therealvoric" /></a> </p>
 
-- 🔭 I’m currently working on my **2048 AI**
+- 🔭 I’m currently working on my **my own C++ Platformer Game**
 
 - 🌱 I’m currently learning **Chess**
 
