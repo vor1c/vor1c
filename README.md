@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealvoric" alt="therealvoric" /></a> </p>
 
-- 🔭 I’m currently working on my **my own C++ Platformer Game**
+- 🔭 I’m currently working on my **my own C++ SFML Game**
 
 - 🌱 I’m currently learning **Chess**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **voricyt@gmail.com**
-
-- ⚡ Fun fact **My Life :skull:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
